@@ -10,9 +10,7 @@
 
 - 💭 Ask me anything about **Web Technologies**
 
-- 📫 How to reach me **sanjeeeva@gmail.com**
-
-- ✍️ I write tech blogs here <a href="https://tharunbalaji2004.hashnode.dev/" target="_blank">**tharunbalaji2004.hashnode.dev**</a>
+- 📫 How to reach me **sanjeeeveia@gmail.com**
 
 - 🎯 Checkout my portfolio <a href="#" target="_blank">**here**</a>
 
@@ -26,18 +24,11 @@
 <a href="https://www.hackerrank.com/profile/learnboycode" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - tharunbalaji31" height="40" width="40" hspace="10" />
 </a>
-<a href="https://leetcode.com/tharunbalaji31/" target="_blank">
+<a href="https://leetcode.com/u/Sanjeevei/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode - tharunbalaji31" height="30" width="30" hspace="10" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/tharunbalaji31/" target="_blank">
+<a href="https://www.geeksforgeeks.org/user/learnbocl5k/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG - tharunbalaji31" height="40" width="40" hspace="10" />
-</a>
-<a href="https://www.codechef.com/users/tharunbalaji31" target="_blank">
-  <img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="Codechef - tharunbalaji31" height="50" width="50" hspace="10" />
-</a>
-</a>
-<a href="https://www.codingninjas.com/codestudio/profile/cd33948a-f388-4ec5-9bc2-70e4b6a810ef" target="_blank">
-  <img align="center" src="https://files.codingninjas.in/new-logo-03-11984.svg" alt="Coding Ninjas - tharunbalaji31" height="90" width="90" hspace="10" />
 </a>
 </p>
 
