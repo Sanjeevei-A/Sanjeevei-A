@@ -1,5 +1,5 @@
 <h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sanjeevei</h1>
-<h2 align="center">Learning new Technologies to sustain the Industrial socity</h2>
+<h2 align="center">Learning new Technologies to sustain the Industrial Crisis</h2>
 
 &nbsp;
 &nbsp;
@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/sanjeeveia/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Tharun Balaji" height="30" width="30" hspace="10" />
 </a>
-<a href="https://www.hackerrank.com/tharunbalaji31" target="_blank">
+<a href="https://www.hackerrank.com/profile/learnboycode" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - tharunbalaji31" height="40" width="40" hspace="10" />
 </a>
 <a href="https://leetcode.com/tharunbalaji31/" target="_blank">
