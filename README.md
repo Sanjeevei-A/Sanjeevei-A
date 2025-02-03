@@ -40,8 +40,6 @@
 <table>
   <th>Coding</th>
   <th>Web Dev</th>
-  <th>App Dev</th>
-  <th>DevOps</th>
   <tr>
     <td>
       <div align="center">
