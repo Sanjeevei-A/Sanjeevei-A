@@ -1,5 +1,5 @@
 <h1 align="center">Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Sanjeevei</h1>
-<h2 align="center">Learning new Technologies to sustain the Industrial Crisis</h2>
+<h2 align="center">Exploring Emerging Technologies to Address and Overcome Industrial Challenges.</h2>
 
 &nbsp;
 &nbsp;
@@ -71,7 +71,7 @@
 <div>
     <p align="center"> 
       <br> <br> 
-      <img src="https://komarev.com/ghpvc/?username=TharunBalaji2004&label=PROFILE+VIEWS&color=ff3d67" /> 
+      <img src="https://komarev.com/ghpvc/?username=Sanjeevei-A&label=PROFILE+VIEWS&color=ff3d67" /> 
     </p> 
   
 <p align="center"> 
@@ -97,7 +97,7 @@
     <summary> GitHub Trophies :trophy: </summary> 
     <p align="center"> 
       <br> <br> 
-      <img width=500 src="https://github-profile-trophy.vercel.app/?username=TharunBalaji2004&theme=monokai&column=3&margin-w=15&margin-h=15"/> 
+      <img width=500 src="https://github-profile-trophy.vercel.app/?username=Sanjeevei-A&theme=monokai&column=3&margin-w=15&margin-h=15"/> 
   </details> 
 </h4>
 </div>
