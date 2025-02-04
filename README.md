@@ -19,16 +19,16 @@
 <h3 align="left">Connect with me: 👨‍💻</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sanjeeveia/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Tharun Balaji" height="30" width="30" hspace="10" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Sanjeevei" height="30" width="30" hspace="10" />
 </a>
 <a href="https://www.hackerrank.com/profile/learnboycode" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - tharunbalaji31" height="40" width="40" hspace="10" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Sanjeevei" height="40" width="40" hspace="10" />
 </a>
 <a href="https://leetcode.com/u/Sanjeevei/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode - tharunbalaji31" height="30" width="30" hspace="10" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode - Sanjeevei " height="30" width="30" hspace="10" />
 </a>
 <a href="https://www.geeksforgeeks.org/user/learnbocl5k/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG - tharunbalaji31" height="40" width="40" hspace="10" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GFG - Sanjeevei " height="40" width="40" hspace="10" />
 </a>
 </p>
 
