@@ -43,46 +43,24 @@
   <tr>
     <td>
       <div align="center">
-<img width="60" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/ed1d6b1d-750f-4df7-8744-5f697e65b0fa" />
-    <img width="60" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/2a864905-cac2-4d9e-af99-7d7d9438684d"/> 
+        <img width="60" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/ed1d6b1d-750f-4df7-8744-5f697e65b0fa" />
+        <img width="60" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/2a864905-cac2-4d9e-af99-7d7d9438684d"/> 
       </div>
     </td>
     <td>
       <div align="center">
         <img alt="html" width="45" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/0bafbe28-91e8-4d67-ac03-4660f2565802"/>
-    <img alt="css" width="45" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/32ba28de-7946-4183-8e70-41f085132a73"/>
-    <img alt="js" width="45" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/58e8bfe4-bf90-42e5-85d7-91b237a3e2bc"/>
-    <img alt="nodejs" width="80" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/93dde305-345c-47f4-9d84-639af100a33e"/>
-    <img alt="springboot" width="100" height="40" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/36836ee2-d64e-4980-9328-cfe04bfe6fe9" />
-    <img alt="mysql" width="90" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/3960d02c-c89a-40fd-a90e-eb6cda4c34db" />
-    <img alt="mongodb" width="70" height="70" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/17642cac-81b6-4233-8ebb-e6f5cb5536e0" />
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <img width="50" height="50" hspace="10" vspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/1031px-Android_logo_2019_%28stacked%29.svg.png?20210331145341"/>
-    <img width="50" height="60" hspace="10" vspace="10" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
-    <img width="50" height="50" hspace="10" vspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/768px-Kotlin_Icon.svg.png?20171012085709"/>
-         <img width="50" height="55" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/91a6bf2d-52a7-4f02-8452-f20183d89f2f"/>
-<img width="50" height="50" hspace="10" vspace="10" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png?20140316083713"/>
-<img width="50" height="50" hspace="10" vspace="10" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"/>
-      <img width="50" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/2892d76a-5c4e-43bd-87a2-526e5327100c"/>
-        <img width="50" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/d3eebd3d-89f7-4ce6-8221-d93432eeb113"/>
-      <img width="50" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/80efaa46-a449-467d-865d-79ae62d8d6ce"/>
-      </div>
-    </td>
-    <td>
-      <div align="center">
-        <img width="50" height="50" hspace="10" vspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-    <img width="50" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/7352e05b-37af-44e3-ba01-7a777a98d8e1"/>
-    <img width="50" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/65a5d3b4-4dbb-4b1c-b56b-b484b1d2bef9"/>
+        <img alt="css" width="45" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/32ba28de-7946-4183-8e70-41f085132a73"/>
+        <img alt="js" width="45" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/58e8bfe4-bf90-42e5-85d7-91b237a3e2bc"/>
+        <img alt="nodejs" width="80" height="50" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/93dde305-345c-47f4-9d84-639af100a33e"/>
+        <img alt="springboot" width="100" height="40" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/36836ee2-d64e-4980-9328-cfe04bfe6fe9" />
+        <img alt="mysql" width="90" height="60" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/3960d02c-c89a-40fd-a90e-eb6cda4c34db" />
+        <img alt="mongodb" width="70" height="70" hspace="10" vspace="10" src="https://github.com/TharunBalaji2004/TharunBalaji2004/assets/95350584/17642cac-81b6-4233-8ebb-e6f5cb5536e0" />
       </div>
     </td>
   </tr>
 </table>
-  
 </div>
-
 
 <hr>
 
